@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey hey! 👋🏾 
 
 Hello! My name is Brianna Wilkins, and I am a third-year Computer Science student at Hampton University. I am currently a Break Through Tech AI Program fellow, where I am developing professional and leadership skills, along with technical skills in machine learning. I aspire to become a data scientist or a data analyst because I enjoy working with data and want to learn more about it.
 
