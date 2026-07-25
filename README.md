@@ -4,7 +4,9 @@ Hello! My name is Brianna Wilkins, and I am a third-year Computer Science studen
 
 ## 🛠 Tech Stack:
 Languages: Python, Java
+
 Data Science: Pandas, NumPy, scikit-learn
+
 Tools: Jupyter Notebooks, Git
 
 ## Hobbies
