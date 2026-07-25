@@ -7,7 +7,7 @@ Languages: Python, Java
 
 Data Science: Pandas, NumPy, scikit-learn
 
-Tools: Jupyter Notebooks, Git
+Tools: Jupyter Notebooks, GitHub
 
 ## Hobbies
 I love listening to music! I listen to a wide range of genres, but right now my favorite artists are a British R&B girlgroup called Flo! I also enjoy reading, playing video games, and hanging out with friends!
