@@ -10,7 +10,7 @@ Data Science: Pandas, NumPy, scikit-learn
 Tools: Jupyter Notebooks, Git
 
 ## Hobbies
-I love listening to music! I listen to a wide range of genres, but right now my favorite artists are a British R&B group called Flo! I also enjoy reading, playing video games, and hanging out with friends!
+I love listening to music! I listen to a wide range of genres, but right now my favorite artists are a British R&B girlgroup called Flo! I also enjoy reading, playing video games, and hanging out with friends!
 
 ## 📫 How to reach me:
 The link to my LinkedIn is https://www.linkedin.com/in/brianna-wilkins  . Let's connect!
