@@ -1,4 +1,4 @@
-## hey hey! 👋🏾 
+## Welcome! 👋🏾 
 
 Hello! My name is Brianna Wilkins, and I am a third-year Computer Science student at Hampton University. I am currently a Break Through Tech AI Program fellow, where I am developing professional and leadership skills, along with technical skills in machine learning. I aspire to become a data scientist or a data analyst because I enjoy working with data and want to learn more about it.
 
@@ -10,10 +10,10 @@ Data Science: Pandas, NumPy, scikit-learn
 Tools: Jupyter Notebooks, GitHub
 
 ## Hobbies
-I love listening to music! I listen to a wide range of genres, but right now my favorite artists are a British R&B girlgroup called Flo! I also enjoy reading, playing video games, and hanging out with friends!
+I love listening to music! I listen to a wide range of genres, but right now my favorite artists are a British R&B girl group called Flo! I also enjoy reading, playing video games, and hanging out with friends!
 
 ## 📫 How to reach me:
-The link to my LinkedIn is https://www.linkedin.com/in/brianna-wilkins  . Let's connect!
+The link to my LinkedIn is https://www.linkedin.com/in/brianna-wilkins . Let's connect!
 <!--
 **b1wilks/b1wilks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
